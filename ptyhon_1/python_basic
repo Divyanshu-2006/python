@@ -12,7 +12,7 @@ print("Mera naam hai:", name)
 # Number variable
 age = 20
 
-# Number ko print karna
+# Number ko print karnaa
 print("Meri age hai:", age)
 
 # Do numbers ko add karna
