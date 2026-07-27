@@ -15,7 +15,7 @@ age = 20
 # Number ko print karnaa
 print("Meri age hai:", age)
 
-# Do numbers ko add karna
+# Do numbers ko add karna.
 num1 = 10
 num2 = 5
 
