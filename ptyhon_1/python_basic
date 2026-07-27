@@ -1,0 +1,26 @@
+# Ye print() function screen par output dikhane ke liye use hota hai.
+print("Hello, World!")
+
+# Ek variable banana
+# Variable ek box ki tarah hota hai jisme hum data store karte hain.
+name = "Divyanshu"
+
+# Variable ko print karna
+# Comma lagane se print() text aur variable ko ek saath dikhata hai.
+print("Mera naam hai:", name)
+
+# Number variable
+age = 20
+
+# Number ko print karna
+print("Meri age hai:", age)
+
+# Do numbers ko add karna
+num1 = 10
+num2 = 5
+
+# Addition karke result store karna
+result = num1 + num2
+
+# Result ko print karna
+print("Addition ka result hai:", result)
